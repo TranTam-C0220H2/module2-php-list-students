@@ -1,0 +1,15 @@
+#add {
+    color: red;
+}
+table {
+    width: 500px;
+    height: auto;
+    text-align: center;
+    border-collapse: collapse;
+}
+table, tr, th, td {
+    border: aquamarine solid 1px;
+}
+th {
+    background: aqua;
+}

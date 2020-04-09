@@ -1,0 +1,20 @@
+div {
+    width: 300px;
+    height: auto;
+    border: aquamarine solid 1px;
+    margin: auto;
+}
+body {
+   color: blue;
+}
+table {
+    margin: auto;
+}
+h3 {
+    text-align: center;
+    margin: auto;
+}
+.add {
+    text-align: center;
+}
+
